@@ -29,7 +29,7 @@ Using flexible backend structures for synchronization, database and Web UI, we h
 that not only allows us to manage accesses but also to tune plenty of possible SSH hardening
 settings per user. Diverse service specification (from servers using only server-to-server access
 and to servers available for all users that are in our company LDAP) resulted in a very flexible
-solution. Still, it has not lost it’s simple and responsive interface - because of the people who
+solution. Still, it has not lost its simple and responsive interface - because of the people who
 work on this!
 
 Today, after few years of using, fixing and expanding our system with more features, we would like
